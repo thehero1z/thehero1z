@@ -6,7 +6,7 @@
 <p>🧑🏾‍💻 Cybersecurity Enthusiast</p>
  <p>📚 I’m currently learning JavaScript, Tailwind</p>
   <p>🧰 I build with: Bootstrap.</p>
-
+<img align="right" alt="Coding" width="300" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
 
 
@@ -14,7 +14,7 @@
 
 
 
-<img align="right" alt="Coding" width="300" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/APboatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0911boat" height="30" width="40" /></a>
