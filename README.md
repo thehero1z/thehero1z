@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi There 👋</h1>
-<img align="right" alt="Coding" width="300" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
+
 
 <p> 🏢 Front End Web Dev </p>
 <p>🧑🏾‍💻 Cybersecurity Enthusiast</p>
  <p>📚 I’m currently learning JavaScript, Tailwind</p>
   <p>🧰 I build with: Bootstrap.</p>
 
-
+<img align="right" alt="Coding" width="300" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
 
 <p align="left"> <a href="https://twitter.com/APboatt" target="blank"><img src="https://img.shields.io/twitter/follow/APboatt?logo=twitter&style=for-the-badge" alt="APboatt" /></a> </p>
