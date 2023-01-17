@@ -4,7 +4,7 @@
 
 <p> 🏢 Front End Web Dev </p>
 <p>🧑🏾‍💻 Cybersecurity Enthusiast</p>
- <h4>🌱 I’m currently learning JavaScript, Tailwind</h4>
+ <p>📚 I’m currently learning JavaScript, Tailwind</p>
   <p>🧰 I build with: Bootstrap.</p>
 
 
