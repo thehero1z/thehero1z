@@ -1,8 +1,9 @@
 
 <h1 align="center">Hi There 👋</h1>
-<h4> 🏢 Front End Web Dev </h4>
-<h4>🧑🏾‍💻 Cybersecurity Enthusiast</h4>
- <h4>🌱 I’m currently learning **JavaScript**</h4>
+<p> 🏢 Front End Web Dev </p>
+<p>🧑🏾‍💻 Cybersecurity Enthusiast</p>
+ <h4>🌱 I’m currently learning JavaScript, Tailwind</h4>
+  <p>🧰 I build with: Bootstrap.</p>
 
 <img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
