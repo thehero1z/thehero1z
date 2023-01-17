@@ -1,13 +1,16 @@
-![MasterHead](https://www.bleepstatic.com/content/hl-images/2017/05/10/login-password.jpg)
-<h1 align="center">Hi 👋, I'm Appiah Boateng</h1>
-<h3 align="center">Front-End Web Dev🧑🏾‍💻 Cybersecurity Enthusiast</h3>
+
+<h1 align="center">Hi There 👋</h1>
+<h4> 🏢 Front End Web Dev </h4>
+<h4>🧑🏾‍💻 Cybersecurity Enthusiast</h4>
+ <h4>🌱 I’m currently learning **JavaScript**</h4>
+
 <img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
 
 
 <p align="left"> <a href="https://twitter.com/APboatt" target="blank"><img src="https://img.shields.io/twitter/follow/APboatt?logo=twitter&style=for-the-badge" alt="APboatt" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
