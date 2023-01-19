@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi There 👋</h1>
+<h1 align="center"> 👋 </h1>
 
 
 <p> 🏢 Front End Web Dev </p>
