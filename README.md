@@ -4,7 +4,7 @@
 
 <p> 🏢 Front End Web Dev </p>
 <p>🧑🏾‍💻 Cybersecurity Enthusiast</p>
- <p>🧠Currently learning JavaScript,Tailwind</p>
+ <p>🧠Currently learning JavaScript , Tailwind CSS </p>
   <p>🧰 I build with: Bootstrap.</p>
 
 
