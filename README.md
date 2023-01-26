@@ -2,10 +2,10 @@
 <h1 align="center"> 👋 </h1>
 
 
- -  🏢 Web Developer (Front End) [Freelance]
- - 🛠️ I build with: `Bootstrap`, `JavaScript`, `VSCode`
- - 🧠 Currently Studying:`React`, `TailwindCSS`
- - 🖥️ Tech Stack:`HTML5`, `Bootstrap`,`JS`,`Python`,`Java`,
+    -  🏢 Web Developer (Front End) [Freelance]
+    -  🛠️ I build with: `Bootstrap`, `JavaScript`, `VSCode`
+    -  🧠 Currently Studying:`React`, `TailwindCSS`
+    -  🖥️ Tech Stack:`HTML5`, `Bootstrap`,`JS`,`Python`,`Java`,
 
 
 
