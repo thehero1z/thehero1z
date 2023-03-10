@@ -4,7 +4,7 @@
 
   -  🏢 Web Developer (Front End) [Freelance]
   -  🛠️ I build with: `Bootstrap`, `JavaScript`, `VSCode`
-  -  🧠 Currently Studying:`React`, `TailwindCSS`
+  -  🧠 Currently Studying:`React`
   -  🖥️ Tech Stack:`HTML5`, `Bootstrap`,`JS`,`Python`,`Java`,
 
 
