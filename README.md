@@ -2,7 +2,7 @@
 <h1 align="center"> 👋 </h1>
 
 
-  -  🏢 Web Developer [Front End]
+  -  🏢 Web Developer ["Front End"]
   -  🛠️ I build with: `Bootstrap`, `JavaScript`, `VSCode`,`TailwindCSS`
   -  🧠 Currently Studying:`React`
   -  🖥️ Tech Stack:`HTML5`,`TailwindCSS`, `Bootstrap`,`JS`,`Python`,`Java`,
